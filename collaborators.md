@@ -1,4 +1,4 @@
 # Collaborators
 
-* Ethan Rice
+* Ethan Ricee
 * Pawan Poudel
