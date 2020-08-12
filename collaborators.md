@@ -1,3 +1,3 @@
 # Collaborators
 
-* Ethan Rice
+* Ethan Ricee
